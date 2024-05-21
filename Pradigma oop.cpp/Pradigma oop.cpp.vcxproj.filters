@@ -32,5 +32,11 @@
     <ClInclude Include="Jantung.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Children.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Ibu.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
