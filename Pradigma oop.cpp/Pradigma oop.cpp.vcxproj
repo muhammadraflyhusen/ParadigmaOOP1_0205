@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Komposisi.cpp" />
+    <ClCompile Include="mainJM.cpp" />
     <ClCompile Include="Manusia.h" />
     <ClCompile Include="Pradigma oop.cpp.cpp" />
   </ItemGroup>

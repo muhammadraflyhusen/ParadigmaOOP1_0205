@@ -24,6 +24,9 @@
     <ClCompile Include="Manusia.h">
       <Filter>Header Files</Filter>
     </ClCompile>
+    <ClCompile Include="mainJM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Jantung.h">
