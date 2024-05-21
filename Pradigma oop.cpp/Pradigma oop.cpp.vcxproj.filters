@@ -21,6 +21,9 @@
     <ClCompile Include="Komposisi.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Manusia.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Jantung.h">
