@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Komposisi.cpp" />
     <ClCompile Include="Pradigma oop.cpp.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Jantung.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
